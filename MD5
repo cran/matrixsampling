@@ -1,0 +1,17 @@
+4b239bbe23a4a488870db6ffa4ed4728 *DESCRIPTION
+6868a23368ce870dd2cf11f3bcd5c5ec *NAMESPACE
+cb692e004591e05c2287a51b9a30491b *NEWS.md
+7a05b1311e0594b8b2b53a7ccba5af6b *R/beta.R
+c20dd96dd1abb5bbf656fed42bcbe9c6 *R/internal.R
+407921e74fe200cc56acdbeef036809a *R/normal.R
+31e9f3437dd32f5ad912fd9dae1d3099 *R/student.R
+fda6ef3154b5cc9d70c58413b74ba9ea *R/wishart.R
+d3133db9100cc3c803557b3bf32837cc *README.md
+4f4e8b5e35844d41f76e2172c7c01335 *man/rinvwishart.Rd
+eaaed0c179c10311dfbda419841ec1f1 *man/rmatrixbeta.Rd
+7fdd8a2682f113a8a67989b4e6970d99 *man/rmatrixbetaII.Rd
+17223056659fe573ede5972a0e8f0e8c *man/rmatrixit.Rd
+c70fcd531a50c2322cb7ca0cb4114d74 *man/rmatrixnormal.Rd
+457deac5351f84d9eea65f4a2ead01f6 *man/rmatrixt.Rd
+827d66388f24a6ed999b30247548c5cd *man/rwishart.Rd
+9e8944f47859de51e0c779788b88ff00 *man/rwishart_chol.Rd
